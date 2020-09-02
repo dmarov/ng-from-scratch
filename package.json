@@ -1,0 +1,8 @@
+{
+  "name": "ng-from-scratch",
+  "version": "1.0.0",
+  "description": "angular app without usage of angular-cli",
+  "main": "index.js",
+  "author": "Dmitry Marov <d.marov94@gmail.com>",
+  "license": "MIT"
+}
